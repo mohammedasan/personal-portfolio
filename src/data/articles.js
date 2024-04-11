@@ -2,15 +2,15 @@ import React from "react";
 
 function article_1() {
 	return {
-		date: "7 May 2023",
-		title: "The Benefits of Cloud Computing",
+		date: "10 October 2023",
+		title: "Optimizing React.js Performance: Best Practices and Techniques",
 		description:
-			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
+			"In this in-depth article, I explore the strategies and techniques essential for optimizing React.js performance, a critical aspect of modern web development. As React.js continues to gain popularity for building interactive and dynamic user interfaces, understanding how to optimize performance becomes paramount for delivering a seamless user experience.",
 		keywords: [
-			"The Benefits of Cloud Computing",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"Optimizing React.js Performance: Best Practices and Techniques",
+			"Mohammed Asan",
+			"Asan",
+			"Mohammed Asan",
 		],
 		style: `
 				.article-content {
@@ -41,16 +41,16 @@ function article_1() {
 
 function article_2() {
 	return {
-		date: "7 May 2023",
-		title: "Artificial Intelligence in Healthcare",
+		date: "18 October 2023",
+		title: "Mastering MySQL: A Comprehensive Guide to Database Management",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
+			"MySQL stands as one of the most popular and powerful relational database management systems, playing a pivotal role in modern web development, data-driven applications, and enterprise solutions. In this comprehensive guide, we delve into the intricacies of MySQL, exploring its features, capabilities, and best practices for efficient database management.",
 		style: ``,
 		keywords: [
-			"Artificial Intelligence in Healthcare",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"Mastering MySQL: A Comprehensive Guide to Database Management",
+			"Mohammed Asan",
+			"Mohammed Asan I",
+			"Mohammed Asan I",
 		],
 		body: (
 			<React.Fragment>
